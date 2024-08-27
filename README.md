@@ -9,4 +9,4 @@ A place to rest yourself surrounded by felines to make your dream of a cat cafe 
 - Connect With Us: Have questions or want to get in touch? Our website makes it easy for you to reach out. Whether you want to book a visit or learn more about our cafe, we’re just a click away!
 
 <b>Technology Used</b>
-Catfe is built using HTML, CSS, and JavaScript, focusing solely on front-end development. This approach allows us to implement design concepts that prioritize a user-friendly interface, ensuring that your experience on our website is as enjoyable as your time at the cafe.
+- Catfe is built using HTML, CSS, and JavaScript, focusing solely on front-end development. This approach allows us to implement design concepts that prioritize a user-friendly interface, ensuring that your experience on our website is as enjoyable as your time at the cafe.

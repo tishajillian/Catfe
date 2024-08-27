@@ -10,3 +10,8 @@ A place to rest yourself surrounded by felines to make your dream of a cat cafe 
 
 <b>Technology Used</b>
 - Catfe is built using HTML, CSS, and JavaScript, focusing solely on front-end development. This approach allows us to implement design concepts that prioritize a user-friendly interface, ensuring that your experience on our website is as enjoyable as your time at the cafe.
+
+<b>Contributors</b>
+- Khairatul Balqis
+- Miranda Setiawati
+- Tisha Jillian
